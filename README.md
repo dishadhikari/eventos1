@@ -41,6 +41,7 @@ Eventos is a peer-to-peer event management platform where users can create, mana
 ### Tech Stack
 
 | Layer                    | Tech                 |
+|--------------------------|----------------------|
 | Frontend                 | React JS             |
 | Database                 | Mongo DB Atlas       |
 | Backend                  | Node JS, Express JS  |
@@ -48,7 +49,7 @@ Eventos is a peer-to-peer event management platform where users can create, mana
 
 ## Demo Video
 
-https://youtu.be/5ev1xyB4b58
+https://drive.google.com/file/d/1vQQajvPras9E9mF_IlYOK3po6YTVWcew/view?usp=drive_link
 
 
 ## Installation
@@ -72,6 +73,7 @@ Open browser → [http://127.0.0.1:5000/][http://127.0.0.1:5713/]
 ## Usage Flow
 
 | Step | Action                                                                   |
+|------|--------------------------------------------------------------------------|
 | 1    | Home Page                                                                |
 | 2    | User signs up/Existing user logs in                                      |
 | 3    | Admin can view dashboard of his organized events (Manage Events)         |
@@ -84,6 +86,7 @@ Open browser → [http://127.0.0.1:5000/][http://127.0.0.1:5713/]
 
 
 | Step | File Name                         |
+|------|-----------------------------------|
 | 1    | server.js/backend                 |
 | 2    | App.jsx/src                       |
 | 3    | models/backend                    |
